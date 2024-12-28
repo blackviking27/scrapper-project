@@ -1,0 +1,11 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore all __pycache__ folders
+**/__pycache__/
+
+# Ignore all .env folders
+**/.env
